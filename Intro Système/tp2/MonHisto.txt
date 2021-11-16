@@ -1,0 +1,894 @@
+man man
+ls
+man ls
+ls
+ls -l
+ls -a
+pwd
+cd
+amn cd
+man cd
+cd /home/
+pdw
+pwd
+ls
+cd /
+ls
+pwd
+cd home
+pwd
+ls
+cd Bureau/
+ls
+pwd
+cd/
+cd /
+cd Bureau/
+cd Desk/
+cd
+pwd
+ls
+cd reseau/Perso/
+ls
+touch fich1.txt
+ls
+cd Bureau/
+ls
+touch fich1.txt
+ls
+ls -s
+gedit
+gedit fich1.txt
+bg
+gedit fich1.txt &
+more fich1.txt
+ls -l
+mkdir dir1
+ls
+cd dir1
+ls
+touch fich2.txt
+ls
+gedit fich2.txt &
+more fich2.txt
+ls -l
+del fich2.txt
+man del
+man dell
+man delate
+delate fich2.txt
+ls
+del fich2.txt
+delate fich2.txt
+rm fich2.txt
+ls
+rmdir1
+rmdir
+rm dir1
+rmdir
+rmdir dir1
+pwd
+cd ..
+rmdir
+rmdir --help
+rmdir
+rmdir dir1
+ls
+mkdir dir1
+ls
+mkdir dir2
+ls
+cd dir
+cd dir1
+cd ../E21
+ls
+touch fich2.txt
+ls
+man echo
+echo 
+ehco jules
+echo jules
+pwd
+ls
+cd Bureau/
+cd ..
+mkdir trav
+cd trav
+mkdir monrep
+mkdir monrep/sousrep
+mkdir/unrep/unautrerep
+cd sousrep
+cd monrep/sousrep
+mkdir monrep/sousrep1
+mkdir ~/reseau/Perso/Bureau/trav/monrep/sousrep1
+mkdir /home/reseau/Perso/Bureau/trav/monrep/sousrep2
+mkdir ~/monrep/sousrep2
+mkdir /home/E218811N/reseau/Perso/Bureau/trav/monrep/sousrep2
+mkdir prive
+mkdir jeux
+pwd
+ls
+cd ..
+ls
+ls -l
+ls -a
+cd trav/
+cd ..
+tree
+mancp
+man cp
+cd monrep
+man cp
+cp fich1.txt/prive
+man cp
+man cd
+man cp
+cp fich1.txt ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive
+cp ~/reseau/Perso/Bureau/fich1.txt ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive
+cd sousrep/prive
+pwd
+ls
+cp fich1.txt ~/reseau/Perso/Bureau/trav/monrep/sousrep1
+man mv
+cd..
+cd ..
+cd sousrep1
+mv fich1.txt fich1.txt.bak
+pwd
+las
+ls
+cp mv fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte2.txt
+mv fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive fichierTexte2.txt
+mv fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte2.txt
+mv ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte2.txt
+mv fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte2.txt
+mv fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte2.txt
+mv ~/reseau/Perso/Bureau/trav/monrep/sousrep1/fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte2.txt
+ls
+tree
+cd ..
+tree
+cd monrep
+cd sousrep2
+mv ~/reseau/Perso/Bureau/trav/monrep/sousrep1/fich1.txt.bak ~/reseau/Perso/Bureau/trav/monrep/sousrep/prive/fichierTexte.txt.old
+ls
+cd perso
+cd reseau/
+cd perso/
+cd reseau/perso/
+package main
+cd reseau
+ls
+cd Perso
+ls
+cd Document
+cd Documents
+cd reseau
+cd Perso
+cd Documents
+cd Apprentissagedugo
+ls
+touch tabs.go
+go run tabs.go
+gedit tabs.go
+go run tabs.go
+go run tabs2.go
+gedit tabs2.go
+go run tabs2.go
+cd reseau/Perso/Documents/Apprentissagedugo
+gedit tabs2.go
+go run tabs2.go
+gedit tabs2.go
+go run tabs2.go
+gedit tabs3.go
+go run tabs3.go
+gedit tabs3.go
+go run tabs3.go
+gedit tabs3.go
+go run tabs3.go
+gedit tabs3.go
+go run tabs3.go
+go run tabs.4
+go run tabs4.go
+gedit tabs4.go
+go run tabs4.go
+gedit tabs4.go
+go run tabs4.go
+gedit tabs4.go
+go run tabs4.go
+gedit tabs4.go
+go run tabs4.go
+gedit tabs4.go
+go run tabs4.go
+cd reseau/Perso/Documents/Apprentissagedugo
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+gedit for.go
+go run for.go
+cd bureau/Perso/Documents/Apprentissagedugo
+cd bureau
+cd reseau/Perso/Documents/Apprentissagedugo
+gedit for.go
+go run for.go
+go run for2.go
+gedit for2.go
+gedit for.go
+python3
+cd bureau/Perso/Documents/Python
+cd reseau/Perso/Documents/Python
+cd reseau
+cd Perso
+cd Documents
+cd Python
+cd Python/
+sl
+ls
+cd Python
+ls
+python run tutoriel.py
+run tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+print(g(2))
+x=2
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+gedit tutoriel.py
+python3 tutoriel.py
+python3 for.py
+cd reseau
+cd Perso
+cd Documents
+cd Python
+python3 for.py
+cd reseau
+cd Perso
+cd Documents
+cd Python
+python3 for.py
+python3 square.py
+cd reseau/Perso/Document/Apprentissagedugo
+cd reseau
+cd Perso
+cd Documents
+cd Apprentissagedugo
+go run for2.go
+gedit for2.go
+go run for2.go
+go run float.go
+[A
+go run float.go
+go run for3.go
+go run Anais.go
+go run if.go
+go run compvar.go
+go run prodvar.go
+go run année.go
+go run if2.go
+go run tabinf5.go
+touch nint.go
+go run nint.go
+run go break.go
+go run break.go
+touch abreak.go
+go run abreak.go
+go run break.go
+cd reseau/Perso/Documents/Python
+ls
+python3 square.py
+python3 carres.py
+cd reseau/Perso/Documents/Python
+python3 carres.py
+python3
+python3 double-list.py
+python3 opérateur_logique.py
+cd reseau/Perso/Documents/Apprentissagedugo/
+cd//
+cd..
+cd ..
+cd Appdugo2/
+go run valeur-reference.go
+go run demo.go
+cd reseau/Perso/Documents/Appdugo2/
+go run valeur-reference
+go run valeur-reference.go
+go run pointeurs.go
+go run pointeurs2.go
+go run valeur-reference2.go
+go run unefonction.go 
+go run tabl+1.go
+cd reseau/Perso/Documents/Appdugo2/
+go run valeur-reference2.go
+go run array.go
+go run val-defaut.go 
+go run slice.go
+go run slice2.go
+go run slice3.go
+go run chaine.go
+go run slice4.go
+go run n_multiple.go
+cd reseau/Perso/Documents/Python
+cd ..
+cd Appdugo2/
+go run slice5.go
+go run slice6.go
+go run slice7.go
+go run slice8.go
+go run slice9.go
+tabtab.go
+go run tabtab.go
+go run tabledemulti.go 
+cd reseau/Perso/Documents/Apprentissagedugo/
+go run func.go
+go run functab.go
+go run func2.go
+go run nbramis.go
+cd reseau/Perso/Documents/Apprentissagedugo/
+cd ..
+Appdugo2/
+cd Appdugo2/
+go run tabtab.go
+go run tabledemulti.go
+go build tabtab.go
+./tabtab.go
+./tabtab
+go run tabtab.go
+go build args.go
+./args Arguments 
+./args 2 5 8 9 6
+./args Bonjour Je Suis Jules Rosaclot
+go run args.go
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+go build argsvar.go
+./argsvar 5 9 6 7 
+./argsvar 7 8 98 102 756
+go build flag.go
+./flag.go 78 54
+./flag.go 
+./flag 78 54
+./flag
+./flag Bonjour
+./flag -h
+go build tabflag.go
+./tabflag 
+./tabflag 5
+./tabflag 6
+go build tabflag.go
+./tabflag -x=3 -y=5 -z=27
+go build tabflag.go
+cd reseau/Perso/Documents/Appdugo2/
+go build tabflag.go
+./tabflag -x=3 -y=6 -z=42
+./tabflag -x=3 -y=6 -z=3
+./tabflag -x=3 -y=6 -z=2
+cd ..
+Appdugo3
+cd Appdugo3
+go run create.go
+ls
+go run create.go
+ls
+go build write.go
+go run write.go
+ls
+go run write.go
+ls
+go build entiern.go
+./entiern -n=8
+gedit tonfichier
+./entiern -n=11
+gedit tonfichier
+python3
+python3 opérateur_logique.py
+cd reseau/Perso/Documents/Python/
+python3 opérateur_logique.py
+python3 ou.py
+python3 Ou.py
+python3 non.py
+python3 ensembles.py
+python3 membres.py
+cd reseau
+cd Perso
+cd Documents/
+cd Appdugo3
+cd ..
+cd exgit/
+git clone
+ls
+git clone https://gitlab.univ-nantes.fr/jezequel-l/exercices-introdev.git
+ls
+cd exercices-introdev/
+ls
+cd..
+cd ..
+cd Documents/
+cd exercices-introdev/
+facteurspremiers_test.go
+go build facteurspremiers.go
+go build facteurspremiers2.go
+go test facteurspremiers.go
+cd 
+back
+cd back
+cancel
+cd reseau/Perso/Documents/exercices-introdev/basiques/facteurspremiers/
+go test facteurspremiers.go
+go build facteurspremiers
+cd reseau/Perso/Documents/Appdugo3/
+go run entiern.go
+./entiern 9
+./entiern -n=9
+go run readlife.go
+go build readfile.go 
+./readlife 
+go run readlife.go
+go build readfile.go 
+go run readlife.go
+go build readfile.go 
+./readlife 
+./readfile
+go build fscanln.go
+./ fscanln
+./fscanln
+go build fscanln.go
+./fscanln
+./fscanln 
+cd reseau
+cd Perso/Documents/Appdugo3
+go build fscanln.GO
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build fscanln.go
+./fscanln 
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+go build bufio.go
+./bufio
+cd reseau
+cd Preso
+cd Perso/
+ls 
+cd Téléchargements/
+ls
+java -jar Logisim-ITA.jar
+cd reseau/Perso/Documents/Python/
+python3 ensembles.py
+python3 membres.py
+python3 somme.py
+python3 taille.py
+python3 moyenne.py
+python3 est_ensemble.py
+python3 suppr_doublon.py
+python3 sppr_doublon.py
+cd reseau/Perso/Documents/exercices-introdev/basiques/factorielle/
+go test 
+cd ..
+cd monnaie
+go test
+cd ..
+cd factorielle/
+go test
+cd reseau/Perso/Documents/exercices-introdev/basiques
+cd factorielle/
+go test
+cd ..
+cd monnaie
+go test
+cd ..
+cd monnaie2
+go test
+cd ..
+nombrespairs/
+cd nombrespairs/
+go test
+cd reseau/Perso/Documents/
+go mod init jules
+go mod init search
+cd bibli/
+cd reseau 
+cd Perso/Documents/bibli/
+cd tab_general/recherche/
+go test
+cd reseau/Perso/Documents/Python/
+python3 sppr_doublon.py
+python3 inclus.py
+cd reseau/Perso/Documents/exercices-introdev/basiques/nombreparfait/
+go test
+cd ..
+cd nombrepremier/
+go test
+cd ..
+cd nombrespairs/
+go test
+cd ..
+cd nombrespremiers/
+go test
+cd..
+cd ..
+cd tab_general/
+cd 
+cd reseau/Perso/Documents/bibli/tab_general/
+ls
+cd Recherche/
+go test
+cd Recherche/
+go test
+cd ..
+cd minimum/
+go test
+cd tab_general/
+cd selection/
+go test
+cd tab_trie/
+cd dichotomie/
+go test
+go test-cover
+go test -cover
+cd ..
+cd tab_general/
+cd minimum/œ
+cd minimum/
+go test -cover
+cd ..
+cd Recherche/
+go test -cover
+go test
+go test -cover
+cd ..
+cd selection/
+go test -cover
+cd tab_general/minimum/
+go test -cover
+cd ..
+cd Recherche/
+go test -cover
+cd ..
+cd tab_general/selection/
+go test -cover
+cd
+cd reseau/Perso/Documents/bibli/tab_trie/dichotomie/
+go test -cover
+cd ..
+cd se
+cd tab_general/selection/
+go test -cover
+go test -coverprofile=couverture.out
+go tool cover -html=couverture.out
+go test -cover
+go tool cover -html=couverture.out
+go test -cover
+go tool cover -html=couverture.out
+go test -coverprofile=couverture.out
+go tool cover -html=couverture.out
+cd ..
+cd tab_trie
+cd recherche/
+go test
+go test -cover
+touch trie_tab
+cd tri_tab/
+go test
+cd ..
+cd tri_tab/
+cd tri_inser2
+go test
+go test -cover
+go test -coverprofile=couverture.out
+go tool cover -html=couverture.out
+go test
+go test -cover
+go test -coverprofile=couverture.out
+go tool cover -html=couverture.out
+go test -cover
+go test -coverprofile=couverture.out
+go tool cover -html=couverture.out
+go test -cover
+cd ..
+cd tri_inser1
+go test
+cd test/
+go run
+go run tab-tri.go
+date -u
+date --universal
+-h
+--help
+date --help
+date --man
+date man
+man date
+date -u
+whereis ls
+wich ls
+which ls
+date man
+man date
+date --set
+man date
+date --iso-8601
+date --set 25 décembre 2021
+date --set 25 décembre
+date --set 25+décembre
+man date
+date +%D +%25/+%décembre/+%2021
+date +%25/+%décembre/+%2021
+date +%D
+man date
+date +%A-+%d
+date +%A %d
+date +%A-%d
+date %d-%d
+date +%d-%A
+man date
+date "+%d %B %Y"
+type --help
+man calandar
+ncalandar
+man date 
+cal
+cal -h
+calendar
+ncal
+ncal -e 2022
+ls
+man pwd
+man cd
+man ls
+cd
+cd Intro\ Système/
+cd 
+cd Intro\ Système/
+cd 
+pwd
+cd Intro\ Système/
+ls
+cd tp1
+pwd
+ls
+cd
+ls
+cd Intro\ Système/tp1
+mkdir Trav
+ls
+man mkdir
+mkdir Trav/Un
+cd Trav/Un
+touch unTexte.txt
+mkdir ../Deux
+ls
+cd ..
+ls
+cd tri_inser2
+go test
+cd ..
+cd tri_inser1
+cd test
+go run tab-tri.go 
+cd -pasbon
+cd reseau/Perso/Documents/
+ls
+cd Intro\ Système/
+cd tp1/
+ls
+cd Quatre/
+LS
+ls
+cd ..
+cd Trois/
+ls
+cd ..
+mkdir Trav
+ls
+mkdir Trav/Un
+cd Trav/Un
+touch unTexte.txt
+mkdir ../../Deux
+ls
+ls ..
+ls ....
+ls ../..
+cd ..
+cd Deux/
+mv ~/tp1/Trav/Un/unTexte.txt leTexte.txt
+mv ~/reseau/Perso/Documents/Intro\ Système/tp1/Trav/Un/unTexte.txt leTexte.txt
+lsz
+ls
+cd ../Un/Trav
+cd ../Trav/Un
+rm Deux
+ls Deux
+cd Deux
+ls ../../Deux
+rm ../../Deux/leTexte.txt
+rm ../..Deux
+rm ../../Deux
+rmdir ../../Deux
+id
+cd ../../Trois
+mkdir Dossier
+ls r
+ls-r
+ls Dossier/
+ls-r Dossier
+ls-l
+ls -l
+ls
+chmod a - r = r Dossier
+chmod a = r illisible.txt
+chmod a=r illisible.txt
+ls -l
+cd tri_inser1/test/
+go run
+go run tab-tri.go 
+cd ..
+go test
+go test -cover
+go test -coverprofile=couverture.out
+go tool cover -html=couverture.out
+go test -cover
+ds ../tri_fusion/test/
+go run test.go
+cd ../tri_fusion/test/
+go run test.go
+cd src\(3\)/
+go run struct.go
+cd src/
+go run struct.go
+go run struct2.go
+go run struct3.go
+go run methode.go
+go run methode2.go
+cd ..
+cd promos/
+go run Promos.go 
+cd promos/
+go mod init promos
+go test
+cd test/
+go run test.go
+cd ..
+go test
+cd ..
+cd tri_fusion/
+cd test/
+go run test.go
+cd reseau/Perso/Documents/
+ls
+cd Intro\ Système/
+ls
+cd tp1
+ls
+cd Trois
+./cmd.sh
+cd ../../tp2
+history
+history-help
+help-history
+history --help
+man history
+touch MonHisto.txt
+MonHisto.txt -r
+history -n MonHisto.txt 
+gedit MonHisto.txt
+history -r MonHisto.txt 
+gedit MonHisto.txt
+history
+history --help
+history -w MonHisto.txt 
